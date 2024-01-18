@@ -33,6 +33,11 @@ Snapshot of website: </br>
 </br> 
 <img width="960" alt="image" src="https://github.com/sagar-harry/UI_VISION/assets/68346310/6c97820a-eddd-4df6-ab25-5efc7bac459e">
 
+
+#### Our approach:
+1. Train a model to identify icons of wildfire and navigate over the website to show interactable capabilities
+
+
 #### Training process:
 1. Several snapshots of the website have been taken and bounding boxes have been drawn around icons
 2. The annotated dataset has been used to train an object detection model
